@@ -14,9 +14,9 @@
         "package": "swift-bson",
         "repositoryURL": "https://github.com/NotesClef/swift-bson.git",
         "state": {
-          "branch": null,
-          "revision": "711690b4703ca9f3891591c1012b462aedefef14",
-          "version": "3.0.2"
+          "branch": "main",
+          "revision": "8e265a4ef58ac0085c3cf424336c37cfdabda7fe",
+          "version": null
         }
       },
       {
